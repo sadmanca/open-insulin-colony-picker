@@ -1,0 +1,119 @@
+﻿<UserControl x:Class="BioHack.Controls.MagDeck"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:BioHack.Controls">
+    <UserControl.Template>
+        <ControlTemplate TargetType="{x:Type UserControl}">
+            <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                     Stretch="Uniform"
+                     Margin="2">
+                <Canvas Width="1508"
+                        Height="1009">
+                    <Canvas.RenderTransform>
+                        <TranslateTransform X="0"
+                                            Y="0" />
+                    </Canvas.RenderTransform>
+                    <Canvas.Resources>
+                        <RectangleGeometry xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                                           x:Key="_clip1"
+                                           Rect="0, 0, 1508, 1009" />
+                    </Canvas.Resources>
+                    <!--Unknown tag: metadata-->
+                    <!--Unknown tag: sodipodi:namedview-->
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                          Fill="White"
+                          StrokeThickness="0.81917697"
+                          StrokeMiterLimit="2"
+                          StrokeLineJoin="Round">
+                        <Path.Data>
+                            <PathGeometry Figures="M 0 0 L 0 35 L 0 300 L 35 300 L 35 35 L 440.00195 35 L 440.00195 0 L 0 0 z M 1068 0 L 1068 35 L 1473 35 L 1473 300 L 1508 300 L 1508 35 L 1508.002 35 L 1508.002 0 L 1068 0 z M 0 709 L 0 974 L 0 1009 L 35 1009 L 440.00195 1009 L 440.00195 974 L 35 974 L 35 709 L 0 709 z M 1473 709 L 1473 974 L 1068 974 L 1068 1009 L 1508.002 1009 L 1508.002 974 L 1508 974 L 1508 709 L 1473 709 z "
+                                          FillRule="EvenOdd" />
+                        </Path.Data>
+                    </Path>
+                    <!--SHAPE HERE-->
+                    <Canvas Name="g30">
+                        <Canvas.RenderTransform>
+                            <MatrixTransform Matrix="1.93797 2.07776 -2.07776 1.93797 4.58724 -2095.59" />
+                        </Canvas.RenderTransform>
+                        <Canvas Name="g10">
+                            <Canvas.RenderTransform>
+                                <MatrixTransform Matrix="0.541487 0 0 0.541487 441.187 -408.12" />
+                            </Canvas.RenderTransform>
+                            <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                                  Name="path8"
+                                  Fill="#FFFFFFFF"
+                                  StrokeMiterLimit="1.5"
+                                  StrokeLineJoin="Round"
+                                  StrokeStartLineCap="Round"
+                                  StrokeEndLineCap="Round"
+                                  Data="m 890.736 1543.57 v 120.6 c 0 25.75 -5.484 48.04 -16.451 66.88 -10.968 18.83 -26.704 33.18 -47.208 43.03 -20.505 9.86 -44.744 14.79 -72.719 14.79 -42.281 0 -75.581 -10.97 -99.9 -32.91 -24.319 -21.93 -36.717 -51.97 -37.194 -90.12 v -122.27 h 84.164 v 123.94 c 0.953 37.99 18.597 56.98 52.93 56.98 17.325 0 30.438 -4.77 39.34 -14.31 8.901 -9.53 13.351 -25.03 13.351 -46.49 v -120.12 z m -189.308 -3.93 h -84.164 v -102.69 h 84.164 z m 189.308 0 h -83.687 v -102.69 h 83.687 z M 697.68 1441.01 h -76.668 v 94.25 h 76.668 z" />
+                        </Canvas>
+                        <Canvas Name="g28">
+                            <Canvas.RenderTransform>
+                                <MatrixTransform Matrix="0.541487 0 0 0.541487 441.187 192.068" />
+                            </Canvas.RenderTransform>
+                            <Canvas Name="g14">
+                                <Canvas.RenderTransform>
+                                    <MatrixTransform Matrix="1.16057 0 0 1.16057 -83.8552 -1354.71" />
+                                </Canvas.RenderTransform>
+                                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                                      Name="path12"
+                                      StrokeThickness="7.80999994"
+                                      Stroke="#FFFFFFFF"
+                                      StrokeMiterLimit="1.5"
+                                      StrokeLineJoin="Round"
+                                      StrokeStartLineCap="Round"
+                                      StrokeEndLineCap="Round"
+                                      Data="m 592.151 1378.93 c 30.569 -22.29 61.138 -22.59 91.707 0" />
+                            </Canvas>
+                            <Canvas Name="g18">
+                                <Canvas.RenderTransform>
+                                    <MatrixTransform Matrix="0.656213 0 0 0.656213 239.918 -614.184" />
+                                </Canvas.RenderTransform>
+                                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                                      Name="path16"
+                                      StrokeThickness="13.81000042"
+                                      Stroke="#FFFFFFFF"
+                                      StrokeMiterLimit="1.5"
+                                      StrokeLineJoin="Round"
+                                      StrokeStartLineCap="Round"
+                                      StrokeEndLineCap="Round"
+                                      Data="m 592.151 1378.93 c 30.569 -22.29 61.138 -22.59 91.707 0" />
+                            </Canvas>
+                            <Canvas Name="g22">
+                                <Canvas.RenderTransform>
+                                    <MatrixTransform Matrix="0.656213 0 0 0.656213 430.04 -614.184" />
+                                </Canvas.RenderTransform>
+                                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                                      Name="path20"
+                                      StrokeThickness="13.81000042"
+                                      Stroke="#FFFFFFFF"
+                                      StrokeMiterLimit="1.5"
+                                      StrokeLineJoin="Round"
+                                      StrokeStartLineCap="Round"
+                                      StrokeEndLineCap="Round"
+                                      Data="m 592.151 1378.93 c 30.569 -22.29 61.138 -22.59 91.707 0" />
+                            </Canvas>
+                            <Canvas Name="g26">
+                                <Canvas.RenderTransform>
+                                    <MatrixTransform Matrix="1.16057 0 0 1.16057 106.827 -1353.67" />
+                                </Canvas.RenderTransform>
+                                <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                                      Name="path24"
+                                      StrokeThickness="7.80999994"
+                                      Stroke="#FFFFFFFF"
+                                      StrokeMiterLimit="1.5"
+                                      StrokeLineJoin="Round"
+                                      StrokeStartLineCap="Round"
+                                      StrokeEndLineCap="Round"
+                                      Data="m 592.151 1378.93 c 30.569 -22.29 61.138 -22.59 91.707 0" />
+                            </Canvas>
+                        </Canvas>
+                    </Canvas>
+                </Canvas>
+            </Viewbox>
+        </ControlTemplate>
+    </UserControl.Template>
+</UserControl>

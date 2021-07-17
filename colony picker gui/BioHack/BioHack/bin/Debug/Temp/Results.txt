@@ -1,0 +1,64 @@
+Transferring 10 from well A1 in "3" to well A4 in "2"
+Picking up tip well A1 in "4"
+Aspirating 10.0 uL from well A1 in "3" at 1 speed
+Dispensing 10.0 uL into well A4 in "2"
+Dropping tip well A1 in "12"
+Transferring 2 from well A1 in "2" to well A4 in "2"
+Picking up tip well B1 in "4"
+Aspirating 2.0 uL from well A1 in "2" at 1 speed
+Dispensing 2.0 uL into well A4 in "2"
+Dropping tip well A1 in "12"
+Transferring 1 from well A2 in "2" to well A4 in "2"
+Picking up tip well C1 in "4"
+Aspirating 1.0 uL from well A2 in "2" at 1 speed
+Dispensing 1.0 uL into well A4 in "2"
+Dropping tip well A1 in "12"
+Transferring 1 from well A3 in "2" to well A4 in "2"
+Picking up tip well D1 in "4"
+Aspirating 1.0 uL from well A3 in "2" at 1 speed
+Dispensing 1.0 uL into well A4 in "2"
+Dropping tip well A1 in "12"
+Transferring 1 from well A2 in "5" to well A4 in "2"
+Picking up tip well E1 in "4"
+Aspirating 1.0 uL from well A2 in "5" at 1 speed
+Dispensing 1.0 uL into well A4 in "2"
+Dropping tip well A1 in "12"
+Transferring 7 from well A4 in "2" to wells A1...B1 in "1"
+Picking up tip well F1 in "4"
+Mixing 5 times with a volume of 10ul
+Aspirating 10 uL from well A4 in "2" at 1.0 speed
+Dispensing 10 uL into well A4 in "2"
+Aspirating 10 uL from well A4 in "2" at 1.0 speed
+Dispensing 10 uL into well A4 in "2"
+Aspirating 10 uL from well A4 in "2" at 1.0 speed
+Dispensing 10 uL into well A4 in "2"
+Aspirating 10 uL from well A4 in "2" at 1.0 speed
+Dispensing 10 uL into well A4 in "2"
+Aspirating 10 uL from well A4 in "2" at 1.0 speed
+Dispensing 10 uL into well A4 in "2"
+Aspirating 7.0 uL from well A4 in "2" at 1 speed
+Dispensing 7.0 uL into well A1 in "1"
+Mixing 5 times with a volume of 10ul
+Aspirating 10 uL from well A4 in "2" at 1.0 speed
+Dispensing 10.0 uL into well A4 in "2"
+Aspirating 10 uL from well A4 in "2" at 1.0 speed
+Dispensing 10.0 uL into well A4 in "2"
+Aspirating 10 uL from well A4 in "2" at 1.0 speed
+Dispensing 10.0 uL into well A4 in "2"
+Aspirating 10 uL from well A4 in "2" at 1.0 speed
+Dispensing 10.0 uL into well A4 in "2"
+Aspirating 10 uL from well A4 in "2" at 1.0 speed
+Dispensing 10.0 uL into well A4 in "2"
+Aspirating 7.0 uL from well A4 in "2" at 1 speed
+Dispensing 7.0 uL into well B1 in "1"
+Dropping tip well A1 in "12"
+Transferring 1 from well A1 in "7" to well A1 in "1"
+Picking up tip well G1 in "4"
+Aspirating 1.0 uL from well A1 in "7" at 1 speed
+Dispensing 1.0 uL into well A1 in "1"
+Dropping tip well A1 in "12"
+Transferring 1 from well A1 in "7" to well B1 in "1"
+Picking up tip well H1 in "4"
+Aspirating 1.0 uL from well A1 in "7" at 1 speed
+Dispensing 1.0 uL into well B1 in "1"
+Dropping tip well A1 in "12"

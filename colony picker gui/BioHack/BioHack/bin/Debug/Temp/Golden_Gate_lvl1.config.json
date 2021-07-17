@@ -1,0 +1,34 @@
+{
+    "Tasks": [
+        {"ID": 0, "Parts": [
+            {"Name": "pMC0_1_02", "BioBrick": "K2560065", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_2_02", "BioBrick": "K2560007", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_3_10", "BioBrick": "K2560084", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_4_05", "BioBrick": "K2560033", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_5_04", "BioBrick": "K2560089", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_6_05", "BioBrick": "K2560100", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_7_03", "BioBrick": "K2560037", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_8_08", "BioBrick": "K2560125", "Labware": 0, "Slot": 48}
+        ]},
+        {"ID":1, "Parts": [
+            {"Name": "pMC0_1_09", "BioBrick": "K2560065", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_2_09", "BioBrick": "K2560007", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_3_09", "BioBrick": "K2560084", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_4_09", "BioBrick": "K2560033", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_5_09", "BioBrick": "K2560089", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_6_09", "BioBrick": "K2560100", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_7_09", "BioBrick": "K2560037", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_8_09", "BioBrick": "K2560125","Labware": 0, "Slot": 48}
+        ]},
+        {"ID":1, "Parts": [
+            {"Name": "pMC0_1_09", "BioBrick": "K2560065", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_2_09", "BioBrick": "K2560007", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_3_09", "BioBrick": "K2560084", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_4_09", "BioBrick": "K2560033", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_5_09", "BioBrick": "K2560089", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_6_09", "BioBrick": "K2560100", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_7_09", "BioBrick": "K2560037", "Labware": 0, "Slot": 48},
+            {"Name": "pMC0_8_09", "BioBrick": "K2560125","Labware": 0, "Slot": 48}
+        ]}
+    ]
+}

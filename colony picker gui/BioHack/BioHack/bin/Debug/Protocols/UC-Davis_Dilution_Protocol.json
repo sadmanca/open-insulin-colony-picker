@@ -1,0 +1,12 @@
+{
+    "Amount" : 1,
+    "Labware" : [
+        {"name": "15ml Falcon Tube Stand", "labware": "opentrons-tuberack-15ml", "Slot": "2"},
+        {"name": "200ul Tiprack", "labware": "tipone_96_tiprack_200ul", "Slot": "1"},
+        {"name": "96-Wellplate Flat", "labware": "corning_96_wellplate_360ul_flat", "Slot": "3"}
+    ],
+    "Liquids" : [
+        {"name": "Fluorescein Stock Solution", "Labware": 0, "Slot": "A1"},
+        {"name": "PBS Stock Solution", "Labware": 0, "Slot": "B1"}
+    ]
+}

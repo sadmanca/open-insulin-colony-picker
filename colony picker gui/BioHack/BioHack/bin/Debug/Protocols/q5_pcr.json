@@ -1,0 +1,21 @@
+{
+    "Amount" : 11,
+    "Labware" : [
+        {"name": "cooled_epi", "labware": "opentrons_24_tuberack_eppendorf_1.5ml_safelock_snapcap", "Slot": "2"},
+        {"name": "cooled_pcr", "labware": "biorad_96_wellplate_200ul_pcr", "Slot": "1"},
+        {"name": "falcon_50ml", "labware": "opentrons_6_tuberack_falcon_50ml_conical", "Slot": "3"},
+        {"name": "tiprack_01", "labware": "opentrons_96_tiprack_10ul", "Slot": "4"},
+        {"name": "templates_96", "labware": "corning_96_wellplate_360ul_flat", "Slot": "7"}
+    ],
+    "Liquids" : [
+        {"name": "Q5 Polymerase", "Labware": 0, "Slot": "A1"},
+        {"name": "Q5 Buffer", "Labware": 0, "Slot": "A2"},
+        {"name": "dNTP", "Labware": 0, "Slot": "A3"},
+        {"name": "Enhancer", "Labware": 0, "Slot": "A4"},
+        {"name": "Forward Primer", "Labware": 0, "Slot": "A5"},
+        {"name": "Reverse Primer", "Labware": 0, "Slot": "B1"},
+        {"name": "Nuclease-Free Water", "Labware": 2, "Slot": "A1"},
+        {"name": "DNA Template", "Labware": 4, "Slot": "A1"},
+        {"name": "Master-Mix(Empty)", "Labware": 0, "Slot": "B2"}
+    ]
+}

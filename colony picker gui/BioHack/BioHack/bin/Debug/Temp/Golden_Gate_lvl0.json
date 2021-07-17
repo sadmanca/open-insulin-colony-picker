@@ -1,0 +1,20 @@
+{
+    "Amount" : 2,
+    "Labware" : [
+        {"name": "Cooled 1.5ml Epi-Tube Stand", "labware": "opentrons_24_tuberack_eppendorf_1.5ml_safelock_snapcap", "Slot": "2"},
+        {"name": "Cooled 96 PCR ", "labware": "biorad_96_wellplate_200ul_pcr", "Slot": "1"},
+        {"name": "50ml Falcon Tube Stand", "labware": "opentrons_6_tuberack_falcon_50ml_conical", "Slot": "3"},
+        {"name": "Warm 1.5ml Epi-Tube Stand", "labware": "opentrons_24_tuberack_eppendorf_1.5ml_safelock_snapcap","Slot": "5"},
+        {"name": "10ul Tiprack", "labware": "opentrons_96_tiprack_10ul", "Slot": "4"},
+        {"name": "96-Wellplate Flat", "labware": "corning_96_wellplate_360ul_flat", "Slot": "7"}
+    ],
+    "Liquids" : [
+        {"name": "DNA Insert", "Labware": 5, "Slot": "A1"},
+        {"name": "Entry Vector", "Labware": 3, "Slot": "A2"},
+        {"name": "T4 Buffer", "Labware": 0, "Slot": "A1"},
+        {"name": "T4 Ligase", "Labware": 0, "Slot": "A2"},
+        {"name": "EspI3", "Labware": 0, "Slot": "A3"},
+        {"name": "Master Mix (Empty)", "Labware": 0, "Slot": "A4"},
+        {"name": "Nuclease-Free Water", "Labware": 2, "Slot": "A1"}
+    ]
+}
